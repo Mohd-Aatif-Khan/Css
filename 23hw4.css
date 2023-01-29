@@ -1,0 +1,13 @@
+nav{
+    background-color: black;
+    color: white;
+}
+ul{
+ list-style: square;
+ 
+}
+
+li{
+    display: inline;
+   
+}

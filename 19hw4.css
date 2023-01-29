@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    background-color: black;
+    color: brown;
+    display: inline-block;
+    height: 90px;
+    width: 50px;
+}
+
+.red{
+    background-color: red;
+    display: inline-block;
+    height: 90px;
+    width: 50%;
+}
+
+.green{
+    background-color: green;
+    display: inline-block;
+    height: 90px;
+    width: 50%;
+}

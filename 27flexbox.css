@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: azure;
+    height: 50vh;
+    align-items: center;
+   
+ 
+}
+
+.box1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    background-color:green;
+}
+.box4{
+    height: 200px;
+    width: 200px;
+    background-color:yellow;
+}

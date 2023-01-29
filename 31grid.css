@@ -1,0 +1,14 @@
+.container{
+    display: grid;
+    background-color: aqua;
+    grid-row-gap: 9px;
+    grid-column-gap: 9px;
+    grid-template-columns: auto auto auto auto;
+}
+
+.item{
+   
+   background-color: aquamarine;
+   border: 2px solid red;
+   
+}
